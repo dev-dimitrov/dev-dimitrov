@@ -4,10 +4,13 @@ Computers and videogames lover👾
 I'm currently learning:
 - ☕ Java
 - 🐍 Python
+- 👾 C# (Unity)
+- ☁️ Cloud Computing (AWS)
 - 📱 Kotlin
 - 🗄️ SQL
 - 🔒 Cybersecurity
 - 📸 Photo manipulation
+
 
 
 
