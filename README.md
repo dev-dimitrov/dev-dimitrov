@@ -11,8 +11,8 @@ I'm currently learning:
 - 🔒 Cybersecurity
 - 📸 Photo manipulation
 
-
-
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3725&center=true&width=435&lines=Dedication+makes+dreams+come+true.)](https://git.io/typing-svg)
 
 
 <!--
